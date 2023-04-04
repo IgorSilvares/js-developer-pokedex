@@ -3,6 +3,13 @@
     box-sizing: border-box;
 }
 
+.titulo {
+    color: #feb236;
+    background-color: #6b5b95;
+    border-radius: 1rem;
+    text-align: center;
+}
+
 body {
     background-color: #f6f8fc;
 }
